@@ -5,5 +5,5 @@ Construir uma forma simples para o usuário aferir a velocidade da internet cont
 
 ## Referências / Idéias 
 
-- [SpeedTest](www.speedtest.net)
+- [SpeedTest](http://www.speedtest.net)
 - [Simetbox](https://simet.nic.br/simetbox.html)
